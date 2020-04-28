@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jl1.0.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/-DEPRECATED-OpenBCI_Processing-master/-DEPRECATED-OpenBCI_Processing-master/libraries/minim/library/jl1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/-DEPRECATED-OpenBCI_Processing-master/-DEPRECATED-OpenBCI_Processing-master/libraries/minim/library/jsminim.jar!/" />
+      <root url="jar://$PROJECT_DIR$/-DEPRECATED-OpenBCI_Processing-master/-DEPRECATED-OpenBCI_Processing-master/libraries/minim/library/minim.jar!/" />
+      <root url="jar://$PROJECT_DIR$/-DEPRECATED-OpenBCI_Processing-master/-DEPRECATED-OpenBCI_Processing-master/libraries/minim/library/mp3spi1.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/-DEPRECATED-OpenBCI_Processing-master/-DEPRECATED-OpenBCI_Processing-master/libraries/minim/library/tritonus_aos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/-DEPRECATED-OpenBCI_Processing-master/-DEPRECATED-OpenBCI_Processing-master/libraries/minim/library/tritonus_share.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/-DEPRECATED-OpenBCI_Processing-master/-DEPRECATED-OpenBCI_Processing-master/libraries/minim/library/jl1.0.1.jar!/" />
+    </SOURCES>
+  </library>
+</component>

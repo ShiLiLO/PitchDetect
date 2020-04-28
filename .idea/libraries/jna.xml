@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jna">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/processing-3.5.4-windows64/processing-3.5.4/lib/jna.jar!/" />
+      <root url="jar://$PROJECT_DIR$/processing-3.5.4-windows64/processing-3.5.4/lib/ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/processing-3.5.4-windows64/processing-3.5.4/lib/pde.jar!/" />
+      <root url="jar://$PROJECT_DIR$/processing-3.5.4-windows64/processing-3.5.4/lib/ant-launcher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/processing-3.5.4-windows64/processing-3.5.4/lib/jna-platform.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
