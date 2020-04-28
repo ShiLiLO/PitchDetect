@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Avista:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="776a2d73-e8bf-4797-9a1b-10b3fd73ef33" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,14 +37,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PitchProject/GetPitchUsingFFT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="122">
+              <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PitchProject/GUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="41" column="70" selection-start-line="41" selection-start-column="70" selection-end-line="41" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PitchProject/AudioSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -96,14 +122,14 @@
         <option value="$PROJECT_DIR$/AvistaProject/Frequency.java" />
         <option value="$PROJECT_DIR$/AvistaProject/Task.java" />
         <option value="$PROJECT_DIR$/AvistaProject/GUI.java" />
-        <option value="$PROJECT_DIR$/PitchProject/GUI.java" />
         <option value="$PROJECT_DIR$/PitchProject/Frequency.java" />
-        <option value="$PROJECT_DIR$/PitchProject/AudioSource.java" />
         <option value="$PROJECT_DIR$/PitchProject/ToneGenerator.java" />
         <option value="$PROJECT_DIR$/PitchProject/PitchDetectorFFT.java" />
         <option value="$PROJECT_DIR$/PitchProject/GetPitchUsingFFT.java" />
         <option value="$PROJECT_DIR$/PitchProject/Avista.java" />
         <option value="$PROJECT_DIR$/PitchProject/Task.java" />
+        <option value="$PROJECT_DIR$/PitchProject/AudioSource.java" />
+        <option value="$PROJECT_DIR$/PitchProject/GUI.java" />
       </list>
     </option>
   </component>
@@ -111,10 +137,10 @@
     <scope name="Unnamed" pattern="jMusic*||lib:com.sun.jna.platform.unix.*" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="2580" />
-    <option name="height" value="1410" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="2064" />
+    <option name="height" value="1128" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -130,6 +156,11 @@
               <item name="PitchDetect" type="b2602c69:ProjectViewProjectNode" />
               <item name="PitchDetect" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PitchDetect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PitchDetect" type="462c0819:PsiDirectoryNode" />
+              <item name="PitchProject" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -139,11 +170,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588058574291" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588111832293" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/tritonus_share.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.19861431" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
@@ -210,12 +241,12 @@
       <workItem from="1588042603360" duration="2678000" />
       <workItem from="1588045510391" duration="3376000" />
       <workItem from="1588055869256" duration="221000" />
-      <workItem from="1588056742141" duration="1798000" />
+      <workItem from="1588056742141" duration="4819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110720000" />
+    <option name="totallyTimeSpent" value="113741000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -227,10 +258,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2062" height="1128" extended-state="6" />
+    <frame x="-9" y="-9" width="1384" height="738" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24725275" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37443268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -239,7 +270,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32733223" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38190955" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39859438" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -250,7 +281,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="ANTLR Preview" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.1997992" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.19932999" />
       <window_info anchor="bottom" id="TODO" order="14" weight="0.32969216" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -308,25 +339,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PitchProject/AudioSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Avista.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PitchProject/GUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="144" column="54" lean-forward="true" selection-start-line="144" selection-start-column="28" selection-end-line="144" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PitchProject/Task.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -358,8 +372,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PitchProject/GetPitchUsingFFT.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="122">
+          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PitchProject/AudioSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PitchProject/GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="41" column="70" selection-start-line="41" selection-start-column="70" selection-end-line="41" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -372,10 +403,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>Avista:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.19861431" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

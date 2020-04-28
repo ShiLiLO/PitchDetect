@@ -39,7 +39,7 @@ public class GUI extends JFrame implements ActionListener, WindowListener, JMC{
         pan = new JPanel();
         pan.setLayout(null);
 
-        logoImage = new ImageIcon("ys.jpg");
+        logoImage = new ImageIcon(getClass().getResource("ys.jpg"));
         lblIcon = new JLabel(logoImage);
 
         lblTitle = new JLabel("Wybierz zadanie!");
